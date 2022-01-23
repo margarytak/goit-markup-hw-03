@@ -340,3 +340,8 @@ img {
 .map-link {
     color: #fff;
 }
+
+.contacts-item:hover,
+.contacts-item:focus {
+    color: var(--accent-color);
+}
