@@ -66,7 +66,9 @@ img {
 /*=============== Header =============== */
 
 .header {
-    border: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+    padding-top: 24px;
+    padding-bottom: 25px;
 }
 
 .header-container {
@@ -95,8 +97,6 @@ img {
 .navigation-list {
     display: flex;
     color: #212121;
-    margin-top: 32px;
-    margin-bottom: 32px;
 }
 
 .navigation-item {
